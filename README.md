@@ -12,3 +12,7 @@
 ## Submit Tx
 
 ![](SubmitTx.svg)
+
+## Profit Distribution
+
+![](ProfitDist.svg)
